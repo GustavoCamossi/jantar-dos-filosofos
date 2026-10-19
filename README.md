@@ -4,7 +4,7 @@ Jogo interativo para ensinar **deadlock** na disciplina de Sistemas Operacionais
 Cinco filósofos (Sócrates, Platão, Aristóteles, Hipátia e Descartes) disputam cinco hashis
 e mostram, ao vivo, como surgem as quatro condições de Coffman.
 
-**Jogar online:** https://SEU-USUARIO.github.io/jantar-dos-filosofos/
+**Jogar online:** https://gustavocamossi.github.io/jantar-dos-filosofos/
 
 ## Modos
 
